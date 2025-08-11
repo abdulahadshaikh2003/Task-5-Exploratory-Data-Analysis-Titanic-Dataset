@@ -4,7 +4,7 @@
 Perform exploratory data analysis on the Titanic dataset to find patterns, trends, and anomalies.
 
 ## Dataset
-- Source: Kaggle – Titanic Dataset (https://www.kaggle.com/c/titanic/)
+- Source: Kaggle – Titanic Dataset - https://www.kaggle.com/c/titanic/
 - Rows: ~891
 - Columns: Passenger details, survival status, ticket class, fare, age, gender, etc.
 
